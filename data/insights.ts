@@ -43,4 +43,44 @@ export const insights: InsightType[] = [
     walkthrough:
       "Nearly all the elements in the human body (e.g. carbon, oxygen, iron, calcium) were forged in the stars dispersed during supernovas, which created planets like Earth and their living organisms, meaning us.",
   },
+  {
+    insight: "Trees have memories.",
+    walkthrough:
+      "After major or several natural disasters like droughts, fires, or insect outbreaks, trees sometimes change their behavior for years or decades, by conserving water more aggressively, or altering their roots growth. This is called ecological memory and it’s stored in their growth rings.",
+  },
+  {
+    insight: "Trees sense their descendants.",
+    walkthrough:
+      "Trees species like the Douglas Firs suggest parent trees may preferentially send nutrients through fungal networks to genetically related seedlings nearby.",
+  },
+  {
+    insight: "Trees can suffer from crown shyness.",
+    walkthrough:
+      "In some forests, the tops of neighbouring trees avoid touching each other, leaving gaps between their crowns and there’s not a full answer that explains these consistent spaces.",
+  },
+  {
+    insight: "Trees relax at night.",
+    walkthrough:
+      "Using laser scanning it’s possible to see that branches can drop several centimeters overnight and rise again by morning. So trees are not static, they’re constantly pulsing, shifting, vibrating, and moving through the pressure of water inside them, although this isn’t easily perceived by humans.",
+  },
+  {
+    insight: "One tree supports an entire community.",
+    walkthrough:
+      "Trees provide food, shelter, and nesting spaces for birds, insects, and other animals that depend on each other to survive. For example: a mature tree can produce enough oxygen to support several living beings every day.",
+  },
+  {
+    insight: "Trees make urban life pleasant.",
+    walkthrough:
+      "Trees cool down the streets by providing shade and releasing moisture into the air, reducing the city heat effect. They improve the air quality and help lower stress levels as people walk among them, look at them, or hug them (I advise you to do the last one).",
+  },
+  {
+    insight: "Ancient trees survive by becoming hollow.",
+    walkthrough:
+      "A tree can become hollow from fungi, insects, lightning, or fire and yet grow leaves and produce seeds, turning into a living shelter for animals and their nests and food storage.",
+  },
+  {
+    insight: "Trees communicate with each other.",
+    walkthrough:
+      "Beneath trees lies a fungal network connected to their roots which is called the “Wood Wide Web.” Through this network, trees can exchange nutrients, send warning signals about danger, and support neighbouring trees.",
+  },
 ] as const;
