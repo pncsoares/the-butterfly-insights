@@ -83,4 +83,44 @@ export const insights: InsightType[] = [
     walkthrough:
       "Beneath trees lies a fungal network connected to their roots which is called the “Wood Wide Web.” Through this network, trees can exchange nutrients, send warning signals about danger, and support neighbouring trees.",
   },
+  {
+    insight: "Cats see movement first.",
+    walkthrough:
+      "Cats eyes are designed to detect motion, not details. They have a high concentration of rod cells, specialized for detecting motion, and a reflective natural mirror behind the retina called the tapetum lucidum, which amplifies low light aka faint movement. That is why cats often stare into what looks like “nothing.”",
+  },
+  {
+    insight: "Cats hear emotions.",
+    walkthrough:
+      "Cats distinguish vocal tones and can associating these with outcomes. They hear higher frequencies inaccessible to humans which are linked to emotional tension and movement.",
+  },
+  {
+    insight: "Cats sleep to hunt.",
+    walkthrough:
+      "Cats evolved as predators that conserve energy between short bursts of explosive movement. Their long sleep cycles restore the nervous system and muscles needed for fast reaction, precision, and hunting efficiency or just to make a mess inside a home.",
+  },
+  {
+    insight: "Cats trust through love and presence.",
+    walkthrough:
+      "Cats are territory and safety-oriented animals. Their trust behavior is linked to lowered stress responses and environmental predictability, based on repeated positive associations.",
+  },
+  {
+    insight: "Cats whiskers are a spatial intelligence.",
+    walkthrough:
+      "Cat whiskers are deeply connected to sensitive nerve endings that detect wind, texture, and nearby movement, helping cats measure spaces, move through darkness and sense the environment before physical contact.",
+  },
+  {
+    insight: "Cats tails are a visible nervous system.",
+    walkthrough:
+      "Tail movement is tightly connected to arousal states within the autonomic nervous system. Rapid flicking can indicate overstimulation, while upright relaxed posture often signals confidence and social openness.",
+  },
+  {
+    insight: "Cats purr is a self-healing frequency.",
+    walkthrough:
+      "Cats purr not only when relaxed, but also when injured, stressed, or recovering. A theory states that purring vibrations between 25–150 Hz may help reduce pain, repair tissue, and stimulate bone and muscle healing.",
+  },
+  {
+    insight: "Cats are linked to a cosmic civilization.",
+    walkthrough:
+      "According to metaphysical belief systems, cats are symbolically linked to Lyrians, ancient cosmic beings, because of their awareness, intuition and physical appearance, though there is no scientific evidence supporting this origin.",
+  },
 ] as const;
