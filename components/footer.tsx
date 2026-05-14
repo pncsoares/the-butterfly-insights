@@ -3,13 +3,11 @@ import ProjectAuthor from "./social/author";
 
 const Footer = () => {
   return (
-    <footer className="text-center flex flex-col items-center justify-center align-center w-full text-muted gap-4 py-5 sm:py-10">
+    <footer className="text-center flex flex-col items-center justify-center align-center w-full text-muted gap-4 py-5 sm:py-10 text-sm md:text-base">
       <div className="flex flex-col">
-        <p className="font-bold">Made by two butterflies</p>
-        <p className="text-sm">Inspiring souls since the 90's</p>
-        <p className="text-sm">
-          Copyright © {new Date().getFullYear()} - All right reserved
-        </p>
+        <p>Made by two butterflies</p>
+        <p>Inspiring souls since the 90's</p>
+        <p>Copyright © {new Date().getFullYear()} - All right reserved</p>
       </div>
       <div className="flex flex-row items-center justify-center align-center w-full gap-1">
         {authors.map((author, idx) => (
