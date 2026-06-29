@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="flex flex-col">
         <p>Made by two butterflies</p>
         <p>Inspiring souls since the 90's</p>
-        <p>Copyright © {new Date().getFullYear()} - All right reserved</p>
+        <p>Copyright © {new Date().getFullYear()} - All rights reserved</p>
       </div>
       <div className="flex flex-row items-center justify-center align-center w-full gap-1">
         {authors.map((author, idx) => (
